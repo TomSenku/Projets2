@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.1/resharper-host/local/Transient/ReSharperHost/v201/SolutionCaches/_Suvivor.-304989110.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".mono/temp/bin" t="ExcludeRecursive" />
+      <e p=".mono/temp/obj" t="ExcludeRecursive" />
+      <e p="Archer.cs" t="Include" />
+      <e p="Arrow.cs" t="Include" />
+      <e p="BuildTower.cs" t="Include" />
+      <e p="Dragon.cs" t="Include" />
+      <e p="Enemy.cs" t="Include" />
+      <e p="Fire.cs" t="Include" />
+      <e p="FireBall.cs" t="Include" />
+      <e p="Global.cs" t="Include" />
+      <e p="GoldMine.cs" t="Include" />
+      <e p="Hitbox.cs" t="Include" />
+      <e p="Interface.cs" t="Include" />
+      <e p="Knight.cs" t="Include" />
+      <e p="KnightHitBox.cs" t="Include" />
+      <e p="Label.cs" t="Include" />
+      <e p="Map.cs" t="Include" />
+      <e p="Menu.cs" t="Include" />
+      <e p="Menu1.cs" t="Include" />
+      <e p="MoneyLabel.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="QuitGame.cs" t="Include" />
+      <e p="Reaper.cs" t="Include" />
+      <e p="ReaperHitBox.cs" t="Include" />
+      <e p="SceneTest1.cs" t="Include" />
+      <e p="ScoreLabel.cs" t="Include" />
+      <e p="Spawner.cs" t="Include" />
+      <e p="Suvivor.csproj" t="IncludeRecursive" />
+      <e p="Suvivor.sln" t="IncludeFlat" />
+      <e p="Tank.cs" t="Include" />
+      <e p="TankBullet.cs" t="Include" />
+      <e p="TowerContain.cs" t="Include" />
+      <e p="WizardTower.cs" t="Include" />
+      <e p="barricade.cs" t="Include" />
+      <e p="mitr.cs" t="Include" />
+      <e p="mitrBullet.cs" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="sniper.cs" t="Include" />
+      <e p="sniperBullet.cs" t="Include" />
+    </e>
+  </component>
+</project>

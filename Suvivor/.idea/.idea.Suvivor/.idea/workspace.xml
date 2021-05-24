@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c6f7061-7cb5-4ce2-b7b5-98a14fb20cb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Suvivor/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Suvivor/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Suvivor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Suvivor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/assemblies/Debug/api_hash_cache.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/assemblies/Debug/api_hash_cache.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/metadata/ide_server_meta.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/metadata/ide_server_meta.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/metadata/scripts_metadata.editor" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/metadata/scripts_metadata.editor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/metadata/scripts_metadata.editor_player" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/metadata/scripts_metadata.editor_player" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Tools/Suvivor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Tools/Suvivor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Tools/Suvivor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Tools/Suvivor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Debug/Suvivor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Debug/Suvivor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Tools/Suvivor.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Tools/Suvivor.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Tools/Suvivor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Tools/Suvivor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Tools/Suvivor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Tools/Suvivor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Tools/Suvivor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Tools/Suvivor.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Knight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sniper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Maplvl3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/QuitGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/mitrBullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dragon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FireBall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Label.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WizardTower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Global.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ReaperHitBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/barricade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/mitr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Map.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Maplvl2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Menu1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Archer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sniperBullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BuildTower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Arrow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TankBullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Fire.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SceneTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Reaper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GoldMine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ScoreLabel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hitbox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KnightHitBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MoneyLabel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TowerContain.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Hitbox.cs" />
+        <option value="$PROJECT_DIR$/KnightHitBox.cs" />
+        <option value="$PROJECT_DIR$/towercontain.cs" />
+        <option value="$PROJECT_DIR$/ScoreLabel.cs" />
+        <option value="$PROJECT_DIR$/Label.cs" />
+        <option value="$PROJECT_DIR$/Arrow.cs" />
+        <option value="$PROJECT_DIR$/Global.cs" />
+        <option value="$PROJECT_DIR$/Interface.cs" />
+        <option value="$PROJECT_DIR$/ReaperHitBox.cs" />
+        <option value="$PROJECT_DIR$/GoldMine.cs" />
+        <option value="$PROJECT_DIR$/barricade.cs" />
+        <option value="$PROJECT_DIR$/SceneTest1.cs" />
+        <option value="$PROJECT_DIR$/Maplvl3.cs" />
+        <option value="$PROJECT_DIR$/sniperBullet.cs" />
+        <option value="$PROJECT_DIR$/TankBullet.cs" />
+        <option value="$PROJECT_DIR$/sniper.cs" />
+        <option value="$PROJECT_DIR$/mitr.cs" />
+        <option value="$PROJECT_DIR$/Tank.cs" />
+        <option value="$PROJECT_DIR$/mitrBullet.cs" />
+        <option value="$PROJECT_DIR$/Fire.cs" />
+        <option value="$PROJECT_DIR$/BuildTower.cs" />
+        <option value="$PROJECT_DIR$/WizardTower.cs" />
+        <option value="$PROJECT_DIR$/Dragon.cs" />
+        <option value="$PROJECT_DIR$/Reaper.cs" />
+        <option value="$PROJECT_DIR$/Archer.cs" />
+        <option value="$PROJECT_DIR$/Knight.cs" />
+        <option value="$PROJECT_DIR$/Enemy.cs" />
+        <option value="$PROJECT_DIR$/FireBall.cs" />
+        <option value="$PROJECT_DIR$/Menu1.cs" />
+        <option value="$PROJECT_DIR$/Menu.cs" />
+        <option value="$PROJECT_DIR$/Spawner.cs" />
+        <option value="$PROJECT_DIR$/TowerContain.cs" />
+        <option value="$PROJECT_DIR$/Map.cs" />
+        <option value="$PROJECT_DIR$/QuitGame.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1azNBqFQ4tPFMo8GIcRvwG1sthu" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c6f7061-7cb5-4ce2-b7b5-98a14fb20cb3" name="Default Changelist" comment="" />
+      <created>1587734330898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587734330898</updated>
+      <workItem from="1587734336378" duration="574000" />
+      <workItem from="1587737993660" duration="4324000" />
+      <workItem from="1587751652048" duration="132000" />
+      <workItem from="1587753603902" duration="2408000" />
+      <workItem from="1587806674068" duration="5007000" />
+      <workItem from="1587822493737" duration="1932000" />
+      <workItem from="1588087445358" duration="1762000" />
+      <workItem from="1588151669367" duration="3515000" />
+      <workItem from="1588165611902" duration="12883000" />
+      <workItem from="1588179677871" duration="27000" />
+      <workItem from="1588249616051" duration="12577000" />
+      <workItem from="1588863138350" duration="1366000" />
+      <workItem from="1588866534828" duration="1388000" />
+      <workItem from="1589031115777" duration="17162000" />
+      <workItem from="1589732237251" duration="2712000" />
+      <workItem from="1589795797592" duration="147000" />
+      <workItem from="1589795984820" duration="2960000" />
+      <workItem from="1589799552347" duration="1451000" />
+      <workItem from="1589808763052" duration="31000" />
+      <workItem from="1589811138770" duration="769000" />
+      <workItem from="1589812112200" duration="39000" />
+      <workItem from="1589812604752" duration="1916000" />
+      <workItem from="1589817115570" duration="768000" />
+      <workItem from="1589818393994" duration="2715000" />
+      <workItem from="1589882995127" duration="3303000" />
+      <workItem from="1589887946599" duration="1076000" />
+      <workItem from="1589889375037" duration="3498000" />
+      <workItem from="1589893474926" duration="24000" />
+      <workItem from="1589893630180" duration="1787000" />
+      <workItem from="1589896063252" duration="5048000" />
+      <workItem from="1589901972918" duration="112000" />
+      <workItem from="1589902781824" duration="3224000" />
+      <workItem from="1589910900668" duration="3024000" />
+      <workItem from="1589916556080" duration="1319000" />
+      <workItem from="1589918303871" duration="491000" />
+      <workItem from="1589918979366" duration="1080000" />
+      <workItem from="1589921018799" duration="86000" />
+      <workItem from="1589921215708" duration="63000" />
+      <workItem from="1589964737400" duration="468000" />
+      <workItem from="1589965392399" duration="309000" />
+      <workItem from="1589965943076" duration="2384000" />
+      <workItem from="1589970275938" duration="2088000" />
+      <workItem from="1589978588705" duration="6231000" />
+      <workItem from="1589984922537" duration="7072000" />
+      <workItem from="1590001743916" duration="135000" />
+      <workItem from="1590002605133" duration="3016000" />
+      <workItem from="1590008794755" duration="565000" />
+      <workItem from="1590009944978" duration="282000" />
+      <workItem from="1590010648416" duration="230000" />
+      <workItem from="1590056402605" duration="405000" />
+      <workItem from="1590056849596" duration="112000" />
+      <workItem from="1590064150225" duration="347000" />
+      <workItem from="1590064600979" duration="1270000" />
+      <workItem from="1590066209041" duration="2231000" />
+      <workItem from="1590068512277" duration="270000" />
+      <workItem from="1590069017278" duration="2688000" />
+      <workItem from="1590072965265" duration="1161000" />
+      <workItem from="1590117125118" duration="214000" />
+      <workItem from="1590117416989" duration="295000" />
+      <workItem from="1590136085312" duration="590000" />
+      <workItem from="1590146258664" duration="4201000" />
+      <workItem from="1590152112297" duration="640000" />
+      <workItem from="1590152869675" duration="440000" />
+      <workItem from="1590153664282" duration="112000" />
+      <workItem from="1590154819208" duration="365000" />
+      <workItem from="1590155378741" duration="371000" />
+      <workItem from="1590156093150" duration="338000" />
+      <workItem from="1590156906905" duration="422000" />
+      <workItem from="1590157879304" duration="279000" />
+      <workItem from="1590160787867" duration="14746000" />
+      <workItem from="1590265470067" duration="2000" />
+      <workItem from="1590265506595" duration="4483000" />
+      <workItem from="1590270288037" duration="134000" />
+      <workItem from="1590270564707" duration="419000" />
+      <workItem from="1590271138148" duration="37000" />
+      <workItem from="1590271299675" duration="392000" />
+      <workItem from="1590271771075" duration="317000" />
+      <workItem from="1590306172904" duration="7120000" />
+      <workItem from="1590325867384" duration="155000" />
+      <workItem from="1590327072650" duration="505000" />
+      <workItem from="1590328132741" duration="262000" />
+      <workItem from="1590328883797" duration="2131000" />
+      <workItem from="1590331417404" duration="293000" />
+      <workItem from="1590332423305" duration="2063000" />
+      <workItem from="1590341733921" duration="51000" />
+      <workItem from="1590341913858" duration="2274000" />
+      <workItem from="1590350738497" duration="6000" />
+      <workItem from="1590350826290" duration="3940000" />
+      <workItem from="1590400572484" duration="2476000" />
+      <workItem from="1590417406057" duration="14578000" />
+      <workItem from="1590437690103" duration="3697000" />
+      <workItem from="1590476900461" duration="12069000" />
+      <workItem from="1590492668524" duration="4778000" />
+      <workItem from="1590498485954" duration="1936000" />
+      <workItem from="1590512926053" duration="6586000" />
+      <workItem from="1590573051213" duration="1212000" />
+      <workItem from="1590578563086" duration="2796000" />
+      <workItem from="1590585756206" duration="993000" />
+      <workItem from="1596413275262" duration="5000" />
+      <workItem from="1596413336582" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="837" y="468" width="303" height="169" key="VCS.ChangelistChooser" timestamp="1589800834595">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="837" y="468" width="303" height="169" key="VCS.ChangelistChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1589800834595" />
+    <state x="67" y="342" width="1613" height="657" key="VCS.FileHistoryDialog" timestamp="1590068428894">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="-117" y="310" width="1613" height="589" key="VCS.FileHistoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1589987566430" />
+    <state x="67" y="342" width="1613" height="657" key="VCS.FileHistoryDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1590068428894" />
+    <state x="772" y="284" width="432" height="656" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590152363244">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="772" y="284" width="432" height="656" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1173@67.27.1853.1173" timestamp="1590152363244" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1590352231107">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1590352231107" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1590518263812">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1590518263812" />
+  </component>
+</project>
